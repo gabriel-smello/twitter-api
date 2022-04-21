@@ -1,4 +1,4 @@
-module twitter-api
+module github.com/gabriel-smello/twitter-api
 
 go 1.18
 
